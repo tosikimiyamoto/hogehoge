@@ -4,3 +4,5 @@ localhost
 adati
 kawanisi
 ebata
+
+sasabe
