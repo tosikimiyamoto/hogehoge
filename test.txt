@@ -1,1 +1,6 @@
 hoge
+
+localhost
+adati
+kawanisi
+ebata
